@@ -1,0 +1,51 @@
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\bin\Debug\net6.0\Exam.exe
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\bin\Debug\net6.0\Exam.deps.json
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\bin\Debug\net6.0\Exam.dll
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\bin\Debug\net6.0\ref\Exam.dll
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\bin\Debug\net6.0\Exam.pdb
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\obj\Debug\net6.0\Exam.csproj.AssemblyReference.cache
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\obj\Debug\net6.0\Exam.dll
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\obj\Debug\net6.0\ref\Exam.dll
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\obj\Debug\net6.0\Exam.pdb
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\obj\Debug\net6.0\Exam.csproj.CopyComplete
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\bin\Debug\net6.0\Exam.exe
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\bin\Debug\net6.0\Exam.deps.json
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\bin\Debug\net6.0\Exam.dll
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\bin\Debug\net6.0\ref\Exam.dll
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\bin\Debug\net6.0\Exam.pdb
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\obj\Debug\net6.0\Exam.csproj.AssemblyReference.cache
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\obj\Debug\net6.0\Exam.csproj.CopyComplete
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\obj\Debug\net6.0\Exam.dll
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\obj\Debug\net6.0\ref\Exam.dll
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\obj\Debug\net6.0\Exam.pdb
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\Exam\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+C:\Users\P\Desktop\C#\Exam\Exam\bin\Debug\net6.0\Exam.exe
+C:\Users\P\Desktop\C#\Exam\Exam\bin\Debug\net6.0\Exam.deps.json
+C:\Users\P\Desktop\C#\Exam\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+C:\Users\P\Desktop\C#\Exam\Exam\bin\Debug\net6.0\Exam.dll
+C:\Users\P\Desktop\C#\Exam\Exam\bin\Debug\net6.0\Exam.pdb
+C:\Users\P\Desktop\C#\Exam\Exam\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\P\Desktop\C#\Exam\Exam\obj\Debug\net6.0\Exam.csproj.AssemblyReference.cache
+C:\Users\P\Desktop\C#\Exam\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P\Desktop\C#\Exam\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\C#\Exam\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+C:\Users\P\Desktop\C#\Exam\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\P\Desktop\C#\Exam\Exam\obj\Debug\net6.0\Exam.csproj.CopyComplete
+C:\Users\P\Desktop\C#\Exam\Exam\obj\Debug\net6.0\Exam.dll
+C:\Users\P\Desktop\C#\Exam\Exam\obj\Debug\net6.0\refint\Exam.dll
+C:\Users\P\Desktop\C#\Exam\Exam\obj\Debug\net6.0\Exam.pdb
+C:\Users\P\Desktop\C#\Exam\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+C:\Users\P\Desktop\C#\Exam\Exam\obj\Debug\net6.0\ref\Exam.dll

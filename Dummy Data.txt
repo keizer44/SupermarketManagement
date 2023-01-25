@@ -1,0 +1,18 @@
+Employees:                                        Crash forcing data
+Gosho,Georgiev,Manager,5000,10     P3tur,P3tk0v,Employee,2000,5
+Petur,Petkov,Employee,2000,5
+
+Tasks                                                                                                      
+Gosho Georgiev,Christmas party,Organize Christmas party,22-12-2022
+Petur Petkov,Christmas party,Clean after the Christmas party,23-12-2022
+
+Crash forcing data
+Tosho Toshev,Christmas party,Decorate the Christmas tree,23-12-2022
+
+Clients                                   Crash forcing data
+Maria,Georgieva,554411       Ivan,Nikolov, 554411
+Boris,Nikolov,414141
+
+Products
+Eggs,1,10000,31-12-2022,Food     
+Milk,3,5000,31-12-2022,Drink
