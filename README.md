@@ -1,0 +1,3 @@
+# SupermarketManagement
+
+Create a structure of classes for a supermarket to manage its operations, including employees, tasks, loyalty card customers, and products. The employees have attributes such as name, surname, position, salary, and experience. Each employee can have one or more tasks assigned to them, and each task has a deadline, name, and description. The supermarket also has loyalty cards for customers, which have information about the customer (name, surname, unique number), total amount of purchases, and a discount based on the total amount of purchases. The supermarket also has products, each of which has a name, price, quantity, expiration date, and category. Each category has a name and unique number.
